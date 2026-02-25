@@ -1,0 +1,2 @@
+# TransLingua-AI-Powered-Multi-Language-Translator-
+TransLingua is a Streamlit-based AI-powered multi-language translation app using Google Gemini, enabling fast and accurate translations across global and Indian regional languages with a secure, user-provided API key.
